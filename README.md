@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+yarn create next-app -e URL "nome_do_Projeto"
+
 First, run the development server:
 
 ```bash
